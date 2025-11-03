@@ -1,14 +1,14 @@
 # 🛂 E-Passport Verification System
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <img src="Images/card_1.png" alt="E-Passport Card Front" width="420"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="Images/card_2.png" alt="E-Passport Card Back" width="420"/>
 </p>
 
 <p align="center"><em>Official RFID-based E-Passport cards used for verification and testing.</em></p>
 
 ---
+
 
 
 
