@@ -1,8 +1,17 @@
 # 🛂 E-Passport Verification System
 
-![E-Passport Verification System](Images/e_passport_main.jpg)
+# 🛂 E-Passport Verification System
+
+<p align="center">
+  <img src="Images/card_1.jpg" alt="E-Passport Card 1" width="420"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="Images/card_2.jpg" alt="E-Passport Card 2" width="420"/>
+</p>
+
+<p align="center"><em>Official RFID-based E-Passport cards used for verification and testing.</em></p>
 
 ---
+
 
 ## Description:
 
